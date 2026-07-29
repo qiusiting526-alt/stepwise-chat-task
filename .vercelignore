@@ -1,0 +1,9 @@
+.git
+.github
+.npm-cache
+.tool-cache
+.tools
+node_modules
+test-results
+playwright-report
+*.log

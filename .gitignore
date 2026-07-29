@@ -5,6 +5,8 @@ test-results/
 playwright-report/
 .vercel/
 .npm-cache/
+.tool-cache/
+.tools/
 .DS_Store
 *.log
 *.tsbuildinfo

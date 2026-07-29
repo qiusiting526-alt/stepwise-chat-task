@@ -4,6 +4,10 @@ A focused single-page micro-action companion built with **Next.js 15**, **React 
 
 It turns a short user message into a fixed, local-only action suggestion, runs a protected 30-second countdown, and records completed cycles. No backend, database, external API, or real AI service is used.
 
+## Live demo
+
+[https://stepwise-chat-task.vercel.app](https://stepwise-chat-task.vercel.app)
+
 ## Features
 
 - Chat bubble list with a message composer
