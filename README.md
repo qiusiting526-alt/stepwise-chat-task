@@ -96,6 +96,6 @@ The start path also checks both `phase === "running"` and `intervalRef.current`,
 
 ## Time spent
 
-Actual working time at the final local verification: **2026-07-29 21:39-22:50 (about 1 hour 11 minutes)**.
+Actual end-to-end working time, including implementation, validation, GitHub publishing, and Vercel deployment: **2026-07-29 21:39-23:22 (about 1 hour 43 minutes)**.
 
-The task was completed within the requested four-hour maximum. Deployment metadata may be added in a final documentation-only commit without changing the measured implementation and validation time.
+The task was completed within the requested four-hour maximum.
